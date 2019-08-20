@@ -1,0 +1,7 @@
+[project]
+name = "b7a_commons"
+version = "0.1.1"
+lockfileversion = "1"
+ballerinaversion = "unknown"
+modules = []
+
